@@ -21,6 +21,7 @@
 1. Clustering: k-means vs. DBSCAN
 2. Sentiment analysis (Naïve Bayes and Maximum Entropy)
 3. Tightely and loosely clustered tweets
+
 3.1 Malicious accounts are likely newer than the average account.
 3.2 They follow way more people than they have followers.
 3.3 The do not enable geolocation.

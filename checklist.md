@@ -19,8 +19,7 @@
 
 ## Develop auxiliary metrics for troll detection
 1. Clustering: k-means vs. DBSCAN
-2. Sentiment analysis (Naïve Bayes and Maximum Entropy)
-3. Tightely and loosely clustered tweets. How to detect them:
+2. Tightely and loosely clustered tweets. How to detect them:
 
 * Malicious accounts are likely newer than the average account.
 * They follow way more people than they have followers.

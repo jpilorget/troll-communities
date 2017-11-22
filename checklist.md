@@ -26,4 +26,4 @@
 * They follow way more people than they have followers.
 * The do not enable geolocation.
 * Suspicious users are between 500 and 20000. 
-* They follow fewer than 1000 users
+* They follow more than 1000 users
